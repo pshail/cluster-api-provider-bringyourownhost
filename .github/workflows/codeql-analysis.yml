@@ -19,6 +19,8 @@ on:
     branches: [ main ]
   schedule:
     - cron: '29 11 * * 3'
+  
+  workflow_dispatch:  # click the button on Github repo!
 
 jobs:
   analyze:
