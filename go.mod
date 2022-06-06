@@ -8,7 +8,7 @@ require (
 	github.com/cppforlife/go-cli-ui v0.0.0-20200716203538-1e47f820817f
 	github.com/docker/cli v20.10.15+incompatible
 	github.com/docker/docker v20.10.16+incompatible
-	github.com/go-logr/logr v1.2.0
+	github.com/go-logr/logr v1.2.3
 	github.com/jackpal/gateway v1.0.7
 	github.com/k14s/imgpkg v0.21.0
 	github.com/kube-vip/kube-vip v0.4.1
